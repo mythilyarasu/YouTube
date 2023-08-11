@@ -2,7 +2,6 @@ import { useState, usestate} from 'react';
 import { useNavigate } from 'react-router-dom';
 import {Paper,IconButton} from '@mui/material';
 import {Search} from '@mui/icons-material';
-import { alignProperty } from '@mui/material/styles/cssUtils';
 
 
 const SearchBar = () => {
